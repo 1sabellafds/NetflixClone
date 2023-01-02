@@ -1,0 +1,9 @@
+/* o css já vem com alguma estilização, no caso vai ser tirado com esse arquivo */
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+}
