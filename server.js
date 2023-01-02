@@ -20,4 +20,5 @@ app.get("/", (req, res) =>{
 // iniciar o servidor na porta e pegando o log dele.
 app.listen(port, () =>{
     console.log(`Server ta funcionando caraii!! Na porta ${port}`)
+    
 })
